@@ -1,9 +1,9 @@
 # Computer Programming: Portfolio
 
-## CHANGE THIS HEADING TO YOUR NAME
+## DEEPARSHAN RAJ KATWAL
 
-### CHANGE THIS HEADING TO YOUR GROUP (e.g. CS4A, FS4D)
-### CHANGE THIS HEADING TO YOUR TUTOR'S FULL NAME
+### LBU-FOCP GROUP
+### DUNCAN MULLER
 
 By submitting this work you are confirming that the work in this repo is your own.
 
